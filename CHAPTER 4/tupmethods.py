@@ -1,0 +1,10 @@
+a=(4,45,324,3424, "Rohan", "Shivam")
+print(a)
+no = a.count(45)
+print(no)
+i=a.index(45)
+print(i)
+print(90 in a)
+print(len(a))
+x,y,z,c,v,a = a
+print(x)

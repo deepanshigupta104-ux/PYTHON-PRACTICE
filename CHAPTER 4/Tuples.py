@@ -1,0 +1,5 @@
+a = ()
+print(a)
+ab = (1,45,342,3424,False, "Rohan", "Shivam")
+print(ab)
+print(type(ab))
