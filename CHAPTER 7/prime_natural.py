@@ -10,5 +10,6 @@ else:
         print("Prime")
         
         
+        
 
             
