@@ -12,3 +12,4 @@ def mul(n):
         print(f"{n} X {i} = {n*i}")
         
 mul(5)
+
